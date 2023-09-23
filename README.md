@@ -1,6 +1,6 @@
-# hello_world
+# OrderSystem.
 
-A new Flutter project.
+一款以 Flutter 開發的行動應用程式，以 Firebase Cloud 作為資料庫，用來記錄同學訂購餐點的詳細內容與金額。
 
 ## Getting Started
 
